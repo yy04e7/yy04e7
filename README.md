@@ -11,5 +11,5 @@
 ## 4주차과제
 <img width="" height="" src="./png/4주차과제.PNG"></img>
 
-## 2022_1_3주차과제
+## 2022_1_2주차과제
 <img width="" height="" src="./png/220315.jpg"></img>
